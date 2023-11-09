@@ -1,6 +1,6 @@
 # Weekend Project Number Two
 
-In here are three folders, here we can share our files for:
+In here there are three folders, here we can share our files for:
 
 - Tests
 - Scripts
