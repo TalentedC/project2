@@ -15,3 +15,11 @@
 - Deployed TokenizedBallot : 0xc6857847ed6a4dba8dcbf66d9efb0fa549f4d6b3e646a326348537e135a4e421
 - Mint tokens: 0x6668bab9efb39d69ebdf3c226ccddb10c53c923d6eea37c6248b68d0492daaf8
 - Vote: 0xd48877c2ec5c0ceddbf743c0b93248c86af7ae49ef40a402dd99df913eef3ff9
+
+# Dani Salmeron
+- Deployed MyToken:Contract address: 0xb11c60c2A31FC869E4B6Ec7eb7Fb2fA82CC0BBCe
+- Deployed TokenisedBallot to:  0x1044d3C48A9aDDDE5a4ed8EC31Df5cBd0bFCCfA3 (Options Vanilla, Coconut, Chocolatemint)
+- Gived Tokens Using address 0x87D3683Ef736A7a617adf306D96A9520194C4621 Minted 1000000000000000000 decimal units to account 0x70997970C51812dc3A010C7d01b50e0d17dc79C8
+  Account 0x70997970C51812dc3A010C7d01b50e0d17dc79C8 has 1000000000000000000 decimal units of MyToken
+- Querying results: Using address 0x87D3683Ef736A7a617adf306D96A9520194C4621/The most voted proposal right now is [object Promise] The winner proposal is: [object Promise]
+- CastigVote: TokenizedBallot contract address: 0x1044d3C48A9aDDDE5a4ed8EC31Df5cBd0bFCCfA3 Error: execution reverted: "This address has 0 voting power. Did you self delegated?"
